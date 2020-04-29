@@ -13,10 +13,10 @@
 
 ## Índices dos projetos
 
-- [01 - ReactJS](https://pt-br.reactjs.org/) 
-- [02 - React Native](https://reactnative.dev/) 
-- [03 - NodeJs](https://nodejs.org/en/) 
-- [04 - Typescript](https://www.typescriptlang.org/) 
+- [01 - ReactJS](https://github.com/larabeatrizms/conceitos-dev/tree/master/frontend) 
+- [02 - React Native](https://github.com/larabeatrizms/conceitos-dev/tree/master/mobile) 
+- [03 - NodeJs](https://github.com/larabeatrizms/conceitos-dev/tree/master/backend) 
+- [04 - Typescript](https://github.com/larabeatrizms/conceitos-dev/tree/master/typescript) 
 
 ## Sobre os projetos
 
