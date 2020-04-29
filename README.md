@@ -11,21 +11,44 @@
 
 > Estudando os conceitos mais importantes para contruir uma aplicação(front-end, back-end e mobile). Estudo com base nas aulas do GoStack da Rocketseat.
 
+## Índices dos projetos
 
-## Install
+- [01 - ReactJS](https://pt-br.reactjs.org/) 
+- [02 - React Native](https://reactnative.dev/) 
+- [03 - NodeJs](https://nodejs.org/en/) 
+- [04 - Typescript](https://www.typescriptlang.org/) 
+
+## Sobre os projetos
+
+Os projetos de ReactJS(front-end) e React Native(mobile) utilizam o back-end para interações e chamadas API.
+
+## Requisitos 
+
+Ter instalado pelo menos um gerenciador de pacotes do Node, [Npm](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/).
+
+## Instalação 
+
+Executar em cada projeto o seguinte comando para instalar as dependências
 
 ```sh
 yarn install
 ```
 
-## Usage
+ou
+
+```sh
+npm install
+```
+
+## Intruções para o uso
 
 Lembrar que para fazer as requisições tanto no front-end quanto no mobile, é necessário que o back-end esteja rodando.
 
-## ⛏️ Built Using <a name = "built_using"></a>
-- [ReactJS](https://pt-br.reactjs.org/) - Web Framework
+## ⛏️ Contruído utilizando
+- [ReactJS](https://pt-br.reactjs.org/) - Web Framework 
 - [React Native](https://reactnative.dev/) - Mobile Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
+- [Typescript](https://www.typescriptlang.org/) - Language for application-scale JavaScript
 
 ## Author
 
@@ -35,6 +58,6 @@ Lembrar que para fazer as requisições tanto no front-end quanto no mobile, é 
 * Github: [@larabeatrizms](https://github.com/larabeatrizms)
 * LinkedIn: [@larabeatrizms](https://linkedin.com/in/larabeatrizms)
 
-## Show your support
+## Mostre seu suporte
 
 Give a ⭐️ if this project helped you!
